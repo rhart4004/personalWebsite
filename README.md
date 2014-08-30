@@ -46,6 +46,7 @@ Technologies
 * CSS3
     * Multiple Backgrounds
     * Mobile First
+    * Completely responsively designed
     * SASS/LESS
 * Javascript
     * [ jQuery ]( http://www.jquery.com )
@@ -57,6 +58,7 @@ Technologies
 * Kendo UI
 * AwesomeFonts
 * SVG
+* Markdown (to quickly generate html pages)
 * Wordpress
 
 Updates
