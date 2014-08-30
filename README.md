@@ -48,7 +48,7 @@ Technologies
     * Mobile First
     * SASS/LESS
 * Javascript
-    * jQuery
+    * [ jQuery ](jquery.com)
     * D3
     * Parallax
     * Angular.js
