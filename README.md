@@ -6,7 +6,7 @@ Introduction
 
 My website will contain:
 
-** Professional Info **
+**Professional Info**
 * Bio
 * Resume
 * Work History
