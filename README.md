@@ -48,11 +48,11 @@ Technologies
     * Mobile First
     * SASS/LESS
 * Javascript
-    * [ jQuery ](http://www.jquery.com)
-    * D3
+    * [ jQuery ]( http://www.jquery.com )
+    * [ D3 ]( http://www.d3js.org )
     * Parallax
-    * Angular.js
-    * Three.js
+    * [ Angular.js ]( https://www.angularjs.org )
+    * [ Three.js ]( http://www.threejs.org )
 * Bookstrap
 * Kendo UI
 * AwesomeFonts
