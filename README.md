@@ -20,7 +20,7 @@ My website will contain:
         * Personal Website
     * Future
 
-** Blog **
+**Blog**
 * Updates when I learn cool stuff
     * Starting to use vim and my experiences
     * Starting to use macvim
@@ -30,7 +30,7 @@ My website will contain:
     * D3
     * Frameworks
 
-** Contact **
+**Contact**
 * Social Links
     * Twitter
     * LinkedIn
