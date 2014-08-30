@@ -38,6 +38,28 @@ My website will contain:
     * Github
 * Contact form
 
+Technologies
+-------------
+
+* HTML5
+    * Canvas
+* CSS3
+    * Multiple Backgrounds
+    * Mobile First
+    * SASS/LESS
+* Javascript
+    * jQuery
+    * D3
+    * Parallax
+    * Angular.js
+    * Three.js
+* Bookstrap
+* Kendo UI
+* AwesomeFonts
+* SVG
+* Wordpress
+
 Updates
 --------
 
+08/29/2014 - Quick outline of site in readme.
